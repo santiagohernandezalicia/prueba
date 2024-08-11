@@ -52,6 +52,5 @@ conteo de asentamientos por cada código postal.
     Tiempo real: 6 horas
 
 ¿Qué aspecto consideras pudiera ser un reto significativo?
-    El reto que se me presento fue encontrar una libreria que mostrara los codigos postales
-    del menor al mayor y adaptarlo para usar un delimitador diferente de las comas, en este caso el "tap"
+    El reto que se me presento fue encontrar una libreria que mostrara los codigos
 */
